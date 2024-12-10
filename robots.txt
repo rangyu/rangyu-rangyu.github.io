@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://rangyu.me
-
-# Sitemaps
-Sitemap: https://rangyu.me/sitemap.xml
